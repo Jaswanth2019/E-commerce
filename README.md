@@ -3,6 +3,8 @@
 ## 1. Installation
 
 **1. Clone the repository:**
+
+## 2.Installation Dependencies
 **2. Install dependencies:**
 ```bash
 npm install
