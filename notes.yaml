@@ -1,0 +1,16 @@
+package.json:
+  reduxjs/toolkit,react-redux: for  global state management(instead of passing data via props declare a global variable)
+  autoprefixer: auto adds prefixes to provided css files(no need)
+  axios: third party fetch API
+  react-router-dom: gives router to react
+  swiper: third party package for corrousal
+  react-helmet-async: lets you edit <head></head> tag for a page
+  react-uuid: A UUID (Universal Unique Identifier) is a 128-bit number used to uniquely identify some object or entity on the Internet , lets you generate this .
+  sass: Syntactically Awesome Style Sheets (hiearchal css , almost css)
+
+flow:
+  package.json:
+  src/main.jsx:
+  src/App.jsx:
+    - /src/Routes/AppRoutes.jsx (mentioned all the routes in /src/Routes/routes.jsx - ROUTES_CONFIG object )
+    - see routes file and perform DFS for each route to understand app
